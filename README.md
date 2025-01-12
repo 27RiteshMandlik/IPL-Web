@@ -1,43 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>IPL Website - ReadMe</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    h1, h2 {
-      color: #2c3e50;
-    }
-    a {
-      color: #3498db;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    code {
-      background-color: #eaeaea;
-      padding: 2px 4px;
-      border-radius: 3px;
-      font-size: 90%;
-    }
-    ul, ol {
-      margin: 10px 0;
-      padding-left: 20px;
-    }
-    li {
-      margin-bottom: 5px;
-    }
-  </style>
-</head>
-<body>
   <h1>IPL Website</h1>
   <p>
     This is a <strong>responsive IPL (Indian Premier League) website</strong> that offers functionality to 
@@ -95,7 +55,4 @@
     <li>Include <strong>social media integration</strong> to share updates.</li>
     <li>Add a <strong>dark mode</strong> toggle for better user experience.</li>
   </ul>
-
- 
-</body>
 </html>
