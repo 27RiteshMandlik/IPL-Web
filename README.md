@@ -36,14 +36,12 @@
   <h2>Technologies Used</h2>
   <ul>
     <li><strong>Frontend</strong>: HTML, CSS, JavaScript (or any framework/library like React if applicable).</li>
-    <li><strong>Backend</strong>: (Specify the backend technology, e.g., Node.js, PHP, Python Flask).</li>
-    <li><strong>Database</strong>: (Specify the database, e.g., MySQL, MongoDB).</li>
   </ul>
 
   <h2>Deployment</h2>
   <p>
     The website is currently hosted on GitHub and can be accessed at the following link:<br>
-    <a href="https://github.com/27RiteshMandlik/IPL-Web.git" target="_blank">IPL Website Repository</a>
+    <a href="[https://github.com/27RiteshMandlik/IPL-Web.git](https://27riteshmandlik.github.io/IPL-Web/)" target="_blank">IPL Website Repository</a>
   </p>
 
   <h2>Future Improvements</h2>
